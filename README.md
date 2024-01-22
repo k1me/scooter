@@ -1,0 +1,2 @@
+# scooter
+Discord music bot
